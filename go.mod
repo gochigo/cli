@@ -6,7 +6,7 @@ require (
 	github.com/BurntSushi/toml v1.1.0
 	github.com/fatih/color v1.13.0
 	github.com/gobuffalo/attrs v1.0.1
-	github.com/gobuffalo/buffalo-pop/v3 v3.0.3
+	github.com/gobuffalo/buffalo-pop/v3 v3.0.4
 	github.com/gobuffalo/clara/v2 v2.0.5
 	github.com/gobuffalo/envy v1.10.1
 	github.com/gobuffalo/events v1.4.2
@@ -16,7 +16,7 @@ require (
 	github.com/gobuffalo/logger v1.0.6
 	github.com/gobuffalo/meta v0.3.1
 	github.com/gobuffalo/plush/v4 v4.1.11
-	github.com/gobuffalo/pop/v6 v6.0.3
+	github.com/gobuffalo/pop/v6 v6.0.4
 	github.com/gobuffalo/refresh v1.13.1
 	github.com/google/go-cmp v0.5.8
 	github.com/markbates/grift v1.5.0
