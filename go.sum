@@ -103,8 +103,9 @@ github.com/gobuffalo/events v1.4.3/go.mod h1:2BwfpV5X63t8xkUcVqIv4IbyAobJazRSVu1
 github.com/gobuffalo/fizz v1.14.4 h1:8uume7joF6niTNWN582IQ2jhGTUoa9g1fiV/tIoGdBs=
 github.com/gobuffalo/fizz v1.14.4/go.mod h1:9/2fGNXNeIFOXEEgTPJwiK63e44RjG+Nc4hfMm1ArGM=
 github.com/gobuffalo/flect v0.3.0/go.mod h1:5pf3aGnsvqvCj50AVni7mJJF8ICxGZ8HomberC3pXLE=
-github.com/gobuffalo/flect v1.0.0 h1:eBFmskjXZgAOagiTXJH25Nt5sdFwNRcb8DKZsIsAUQI=
 github.com/gobuffalo/flect v1.0.0/go.mod h1:l9V6xSb4BlXwsxEMj3FVEub2nkdQjWhPvD8XTTlHPQc=
+github.com/gobuffalo/flect v1.0.2 h1:eqjPGSo2WmjgY2XlpGwo2NXgL3RucAKo4k4qQMNA5sA=
+github.com/gobuffalo/flect v1.0.2/go.mod h1:A5msMlrHtLqh9umBSnvabjsMrCcCpAyzglnDvkbYKHs=
 github.com/gobuffalo/genny/v2 v2.1.0 h1:cCRBbqzo3GfNvj3UetD16zRgUvWFEyyl0qTqquuIqOM=
 github.com/gobuffalo/genny/v2 v2.1.0/go.mod h1:4yoTNk4bYuP3BMM6uQKYPvtP6WsXFGm2w2EFYZdRls8=
 github.com/gobuffalo/github_flavored_markdown v1.1.3 h1:rSMPtx9ePkFB22vJ+dH+m/EUBS8doQ3S8LeEXcdwZHk=
